@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, #01025e, #000000);
+    /* You can customize the gradient colors and direction */
+    height: 100vh; /* Ensure it covers the full height */
+    margin: 0; /* Remove default margin */
+    
+}
+*{
+    font-family: "Ubuntu", serif;
+}
